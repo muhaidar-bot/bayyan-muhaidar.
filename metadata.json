@@ -1,0 +1,6 @@
+{
+  "name": "Bayyan ❤️ Muhaidar",
+  "description": "A private, romantic one-to-one messaging and camera application with live filters, voice notes, and persistent wallpapers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
